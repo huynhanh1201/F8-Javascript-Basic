@@ -445,8 +445,90 @@ Bài 61: String/Array includes() method
 
 -   String/Array includes() là gì?
 
-# Chương 11: Callback?
+# Chương 11: Callback - Empty
 
+# Chuong 12: HTML DOM - Empty
 
+# Chuong 13: JSON, Fetch, Postman - Empty
 
-ubbunto
+# Chuong 14: ECMAScript 6+
+
+Bai 1: ECMAScript 6 là gì?
+
+-   ECMAScript 6 la gi? Co ho tro het cho cac trinh duyet khong?
+
+Bai 2: Let & Const
+
+-   Scope, Hosting, Assignment la gi?
+-   Var khac let, const nhu the nao?
+-   Const khac var, let nhu the nao?
+
+Bai 3: Template literals
+
+-   Template literals la gi? Cu phap nhu the nao?
+-   Them ky tu dac biet nhu the nao?
+-   Viet nhieu dong xuong hang nhu the nao?
+
+Bai 4: Arrow function
+
+-   Cu phap nhu the nao?
+-   Cach viet ngan gon khi return mot dong nhu the nao? Muon return mo object nhu then nao?
+-   Viet ngan gon khi co mot tham so nhu the nao?
+-   Context la gi?
+-   Arrow function co context khong? Co dung lam function constructor duoc khong?
+
+Bai 5: Classes
+
+-   Cu phap nhu the nao? Tao mot class Person?
+
+Bai 6: Default parameter values
+
+-   Default parameter values la gi? Nen dung khi nao? Tao mot ham logger nhe?
+
+Bai 7: Enhanced object literals
+
+-   Enhanced object literals la gi? Cu phap nhu the nao? Dung de lam gi?
+-   Dinh nghia key: value cho object nhu the nao?
+-   Dinh nghia method cho object nhu the nao?
+-   Dinh nghia key cho object duoi dang bien nhu the nao?
+
+Bai 8: Destructuring, Rest
+
+-   Destructuring, Rest la gi?
+-   Dung cho Array nhu the nao? Lay cac phan tu nhu the nao? Muon lay theo nhu cau lam nhu the nao? Dung Rest nhu the nao?
+-   Dung cho Object nhu the nao? Lay cac phan tu nhu the nao? Dung Rest nhu the nao? Neu co Object con ben trong thi sao? Doi ten nhu the nao? Neu lay gia tri kho ton tai se tra ve cai gi? Gan gia tri mac dinh khi gia tri khong ton tai nhu the nao?
+-   Dung Rest lam parameters nhu the nao? Lay ra mot tham so va dung rest de lay phan con lai nhu the nao?
+
+Bai 9: Spread
+
+-   Spread la gi? Dung de lam gi? Cu phap nhu the nao?
+-   Lam bai tap noi Array bang Spread
+-   Lam bai tap gop 2 Object lai bang Spread
+-   Dung Spread truyen tham so cho ham nhu the nao? Lam bai tap
+
+Bai 10: Tagged template literals
+
+-   Tagged template literals la gi? Dung de lam gi? Cu phap nhu the nao?
+
+-   Lam bai tap viet ham highlight dung Tagged template literals
+
+Bai 11: Modules
+
+-   Modules la gi? Dung de lam gi? Cu phap nhu the nao?
+-   Tao mot Modules logger
+-   Export default nhu the nao? Co Export nhieu duoc khong?
+-   Export binh thuong nhu the nao? Co Export nhieu duoc khong?
+-   Dung dau \* trong import de lam gi?
+-   Export tu module khac nhu the nao? Doi ten nhu the nao?
+
+Bai 12: Optional chaining (?.)
+
+-   Optional chaining la gi? Dung de lam gi? Cu phap nhu the nao?
+-   Kiem tra key trong Object co ton tai hay khong bang Optional chaining nhu the nao?
+-   Kiem tra key trong Array co ton tai khong nhu the nao?
+
+# Chuong 15: Cac bai thuc hanh
+
+Bai 1: Xay dung Tabs UI
+
+-   Thuc hanh Xay dung Tabs UI
