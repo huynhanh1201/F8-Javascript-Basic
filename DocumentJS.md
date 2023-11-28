@@ -532,3 +532,8 @@ Bai 12: Optional chaining (?.)
 Bai 1: Xay dung Tabs UI
 
 -   Thuc hanh Xay dung Tabs UI
+
+Bai 2: Code Music Player
+
+-   Thuc hanh Code Music Player
+-   Element.scrollIntoView() la gi?
